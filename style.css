@@ -11,9 +11,8 @@ body, h1, h2, h3, h4, h5, h6, p {
 
 body {
     background-color: hsl(210, 46%, 95%);
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    place-content: center;
     min-height: 100vh;
 }
 
