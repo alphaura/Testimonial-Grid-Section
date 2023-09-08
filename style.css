@@ -40,16 +40,16 @@ article {
     margin: 1rem;
 }
 
-h1 {
+h2 {
     font-size: .8rem;
 }
 
-h2 {
+h3 {
     font-size: .7rem;
     opacity: 50%;
 }
 
-h3 {
+h4 {
     margin-bottom: 1rem;
     font-size: 1.1rem;
     
